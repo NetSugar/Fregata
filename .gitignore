@@ -1,0 +1,9 @@
+/src/.vs
+/src/Echo.Client/obj
+/src/Echo.Client/bin
+/src/Fregata/obj
+/src/Fregata/bin
+/src/Fregata.Test/obj
+/src/Fregata.Test/bin
+/src/SpanMemoryTest/obj
+/src/SpanMemoryTest/bin
